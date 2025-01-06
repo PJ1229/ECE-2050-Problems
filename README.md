@@ -1,4 +1,4 @@
-<h1>using terminal</h1>
+<p>using terminal</p>
 <li>nano date.cpp</li>
 <li>g++ -o date date.cpp</li>
 <li>./date</li>
