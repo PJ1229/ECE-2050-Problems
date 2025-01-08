@@ -1,4 +1,4 @@
-<p>using terminal</p>
+<p>using terminal to commit cpp file</p>
 <li>nano date.cpp</li>
 <li>g++ -o date date.cpp</li>
 <li>./date</li>
