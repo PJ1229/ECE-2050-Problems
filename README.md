@@ -16,3 +16,6 @@
 <li>g++ -c date_util1.cpp -o date_util1.o</li>
 <li>g++ -c date_util2.cpp -o date_util2.o</li>
 <li>g++ -o date date.o date_util1.o date_util2.o</li>
+<br>
+<p>specify g++ c++11 standard to compile to object</p>
+<li>g++ -std=c++11 -c date.cpp -o date.o<\li>
