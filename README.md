@@ -1,3 +1,7 @@
+<p>make a new directory and store files</p>
+<li>mkdir date_folder</li>
+<li>cd date_folder</li>
+<br>
 <p>using terminal to create, build, and git commit cpp file</p>
 <li>nano date.cpp</li>
 <li>g++ -o date date.cpp</li>
