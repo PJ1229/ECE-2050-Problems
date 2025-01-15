@@ -3,7 +3,8 @@
 <li>cd date_folder</li>
 <br>
 <p>using terminal to create, build, and git commit cpp file</p>
-<li>nano date.cpp</li>
+<li>mac: nano date.cpp</li>
+<li>windows: notepad date.cpp</li>
 <li>g++ -o date date.cpp</li>
 <li>./date</li>
 <li>git add -A</li>
